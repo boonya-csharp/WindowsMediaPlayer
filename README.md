@@ -1,7 +1,7 @@
 # WindowsMediaPlayer
 基于Windows Media Player COM 组件实现媒体文件播放器
 
-![PlayMediaTest](https://github.com/BoonyaCSharp-ASP/WindowsMediaPlayer/raw/master/MediaFileExample/show.png)test
+![PlayMediaTest](https://github.com/BoonyaCSharp-ASP/WindowsMediaPlayer/raw/master/MediaFileExample/show.png)
 
 # Reference Idea
 
