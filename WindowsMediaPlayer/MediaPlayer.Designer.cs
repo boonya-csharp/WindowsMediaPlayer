@@ -66,10 +66,6 @@
             this.Open.Text = "打开";
             this.Open.Click += new System.EventHandler(this.Open_Click);
             // 
-            // openFileDialog
-            // 
-            this.openFileDialog.FileName = "openFileDialog";
-            // 
             // WindowsMediaPlayer
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
